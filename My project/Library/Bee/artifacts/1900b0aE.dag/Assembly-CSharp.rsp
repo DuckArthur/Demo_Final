@@ -350,6 +350,7 @@
 "Assets/scrips/CarController.cs"
 "Assets/scrips/Checkpoint.cs"
 "Assets/scrips/CheckpointChecker.cs"
+"Assets/scrips/DisableTime.cs"
 "Assets/scrips/RaceManager.cs"
 "Assets/scrips/UIManager.cs"
 -langversion:9.0
